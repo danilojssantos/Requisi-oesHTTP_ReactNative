@@ -1,2 +1,2 @@
-# Requisi-oesHTTP_ReactNative
+# RequisicoesHTTP_ReactNative
 Requisiçoes HTTP ReactNative
