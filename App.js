@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import { View, StyleSheet, FlatList } from 'react-native';
 
-import Filmes from './src/filmes';
+import Filmes from './src/Filmes';
 
 
 import api from './src/services/api';
